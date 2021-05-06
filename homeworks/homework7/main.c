@@ -1,3 +1,5 @@
+//Con ayuda de un compañero externo Juan Yamamoto
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
