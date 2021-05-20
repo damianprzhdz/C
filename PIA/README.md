@@ -12,6 +12,15 @@ One of the main reasons of the project is because we can develop several mazes w
 
 **Link to the video** [http://https://youtu.be/CVWxK-K8aLA](https://youtu.be/CVWxK-K8aLA)
 
+## Grade (Opinion)
+- Complexity 2 (in comparison to the homeworks)
+- Functionality 2 (All the things in the program work as it should)
+- Code 3 (It is clear and easy to understand)
+- Storage 3 (It storages all the movements and even when you do more than one)
+- Documentation 3 (The report is clear and with a good video explanation)
+
+**FG = 13 of 15**
+
 ## Author
 Damián Alejandro Pérez Hernández
 
