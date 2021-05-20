@@ -8,9 +8,9 @@ One of the main reasons of the project is because we can develop several mazes w
 - The objectif is to find a way out , this way out is marked with the ">" symbol.
 
 ## Project
-**Link to the project**  [http://https://onlinegdb.com/-L37NzFMX](http://https://onlinegdb.com/-L37NzFMX)
+**Link to the project**  [http://https://onlinegdb.com/-L37NzFMX](https://onlinegdb.com/-L37NzFMX)
 
-**Link to the video** [http://https://youtu.be/CVWxK-K8aLA](http://https://youtu.be/CVWxK-K8aLA)
+**Link to the video** [http://https://youtu.be/CVWxK-K8aLA](https://youtu.be/CVWxK-K8aLA)
 
 ## Author
 Damián Alejandro Pérez Hernández
